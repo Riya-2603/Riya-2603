@@ -1,7 +1,7 @@
 # Welcome 🤗
 Hello 👋, <b>I'm Riya.</b> I'm a 1st year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University.
 
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
 
 <br>
 
