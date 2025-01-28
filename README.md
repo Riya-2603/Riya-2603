@@ -1,5 +1,5 @@
 # Welcome 🤗
-Hello 👋, <b>I'm Riya.</b> I'm a 1st year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University.
+Hello 👋, <b>I'm Riya.</b> I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University.
 
 
 
